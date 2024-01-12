@@ -131,10 +131,6 @@ function Event() {
                 </>
             )
         }
-        <p>
-            {TeamAVote} : {TeamBVote}
-            
-        </p>
         </div>
         </>
   )
